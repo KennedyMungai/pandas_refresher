@@ -9,7 +9,8 @@
 			"darkgrid",
 			"Dataframes",
 			"dtype",
-			"figsize"
+			"figsize",
+			"pclass"
 		]
 	}
 }
