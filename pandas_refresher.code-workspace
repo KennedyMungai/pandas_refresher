@@ -11,6 +11,7 @@
 			"dtype",
 			"figsize",
 			"fillna",
+			"iloc",
 			"isin",
 			"pclass",
 			"xlabel",
