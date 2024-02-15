@@ -14,6 +14,8 @@
 			"figsize",
 			"fillna",
 			"gbclass",
+			"gridsize",
+			"hexbin",
 			"iloc",
 			"isin",
 			"ngroups",
