@@ -13,6 +13,7 @@
 			"fillna",
 			"iloc",
 			"isin",
+			"nunique",
 			"pclass",
 			"xlabel",
 			"ylabel"
