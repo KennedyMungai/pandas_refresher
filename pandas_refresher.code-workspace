@@ -11,7 +11,9 @@
 			"dtype",
 			"figsize",
 			"fillna",
-			"pclass"
+			"pclass",
+			"xlabel",
+			"ylabel"
 		]
 	}
 }
